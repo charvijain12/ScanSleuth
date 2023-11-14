@@ -36,7 +36,4 @@ Instructions for deploying and utilizing the platform will be provided in the re
 
 Contributions are welcome! If you find any issues or have suggestions for enhancements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
+This project is licensed under the [MIT License](https://github.com/charvijain12/ScanSleuth/blob/main/LICENSE).
