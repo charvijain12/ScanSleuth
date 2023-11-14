@@ -31,7 +31,7 @@ import keras
 # In[2]:
 
 
-data = pd.read_csv("C:\\Users\\Karan\\Downloads\\archive\\Data_Entry_2017.csv")
+data = pd.read_csv("C:\\Users\\Charvi Jain\\Downloads\\archive\\Data_Entry_2017.csv")
 data = data[data['Patient Age']<100] #removing datapoints which having age greater than 100
 data_image_paths = {os.path.basename(x): x for x in 
                    glob(os.path.join('..', 'input', 'images*', '*', '*.png'))}
