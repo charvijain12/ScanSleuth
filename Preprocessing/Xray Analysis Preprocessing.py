@@ -26,7 +26,7 @@ warnings.filterwarnings('ignore')
 
 
 # reading the data
-data = pd.read_csv("C:\\Users\\Karan\\Downloads\\archive\\Data_Entry_2017.csv")
+data = pd.read_csv("C:\\Users\\Charvi Jain\\Downloads\\archive\\Data_Entry_2017.csv")
 data.head()
 
 
