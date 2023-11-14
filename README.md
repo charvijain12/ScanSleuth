@@ -1,6 +1,4 @@
-# ScanSleuth: Decode Your Diagnosis 
-
-## Medical Imaging Self-Diagnosis Platform
+# ScanSleuth: Medical Imaging Self-Diagnosis Platform
 
 ## Overview
 
